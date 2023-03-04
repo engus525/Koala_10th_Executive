@@ -22,7 +22,7 @@
 ### 출석부 업데이트
 
 - 매주 월요일에 업데이트하고, 완료하면 이번 주차에 배울 내용과 함께 카톡에 공지합니다.
-[출석부 링크](https://kau-algorithm.tistory.com/732)
+[출석부 링크](https://kau-algorithm.tistory.com/953)
 
 ### 미활동 기준
 
