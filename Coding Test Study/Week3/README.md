@@ -1,4 +1,4 @@
-## n주차 모의테스트 해설
+## 3주차 모의테스트 해설
 <br>
 
 ### A. [기상캐스터](https://www.acmicpc.net/problem/10709)
